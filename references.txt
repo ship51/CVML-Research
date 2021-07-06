@@ -1,0 +1,8 @@
+Reference : 
+
+
+1)https://towardsdatascience.com/understanding-your-convolution-network-with-visualizations-a4883441533b
+2)https://machinelearningmastery.com/how-to-configure-image-data-augmentation-when-training-deep-learning-neural-networks/
+3)https://machinelearningmastery.com/how-to-load-large-datasets-from-directories-for-deep-learning-with-keras/
+4)https://medium.com/analytics-vidhya/your-handbook-to-convolutional-neural-networks-628782b68f7e
+5)https://www.kaggle.com/maherdissem/image-classification-of-asl-language-using-cnn
